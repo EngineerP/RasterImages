@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Solutions\MScAC Solutions\CSC2504 - Computer Graphics Solutions\computer-graphics-raster-images-master\test-build\CMakeFiles\3663c4fff8101f3cb572c306000c861f\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4D0E60F9-C247-36CB-92F1-559B417BEF11}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

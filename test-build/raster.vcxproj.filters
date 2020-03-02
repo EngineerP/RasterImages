@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Solutions\MScAC Solutions\CSC2504 - Computer Graphics Solutions\computer-graphics-raster-images-master\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Solutions\MScAC Solutions\CSC2504 - Computer Graphics Solutions\computer-graphics-raster-images-master\src\demosaic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Solutions\MScAC Solutions\CSC2504 - Computer Graphics Solutions\computer-graphics-raster-images-master\src\desaturate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Solutions\MScAC Solutions\CSC2504 - Computer Graphics Solutions\computer-graphics-raster-images-master\src\hsv_to_rgb.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Solutions\MScAC Solutions\CSC2504 - Computer Graphics Solutions\computer-graphics-raster-images-master\src\hue_shift.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Solutions\MScAC Solutions\CSC2504 - Computer Graphics Solutions\computer-graphics-raster-images-master\src\over.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Solutions\MScAC Solutions\CSC2504 - Computer Graphics Solutions\computer-graphics-raster-images-master\src\reflect.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Solutions\MScAC Solutions\CSC2504 - Computer Graphics Solutions\computer-graphics-raster-images-master\src\rgb_to_gray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Solutions\MScAC Solutions\CSC2504 - Computer Graphics Solutions\computer-graphics-raster-images-master\src\rgb_to_hsv.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Solutions\MScAC Solutions\CSC2504 - Computer Graphics Solutions\computer-graphics-raster-images-master\src\rgba_to_rgb.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Solutions\MScAC Solutions\CSC2504 - Computer Graphics Solutions\computer-graphics-raster-images-master\src\rotate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Solutions\MScAC Solutions\CSC2504 - Computer Graphics Solutions\computer-graphics-raster-images-master\src\simulate_bayer_mosaic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Solutions\MScAC Solutions\CSC2504 - Computer Graphics Solutions\computer-graphics-raster-images-master\src\write_ppm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Solutions\MScAC Solutions\CSC2504 - Computer Graphics Solutions\computer-graphics-raster-images-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9B29C66A-E971-35AE-84AE-013A368CA0A4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
