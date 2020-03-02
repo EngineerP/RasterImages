@@ -1,0 +1,3 @@
+D:/Solutions/MScAC Solutions/CSC2504 - Computer Graphics Solutions/computer-graphics-raster-images-master/build-debug/CMakeFiles/raster.dir
+D:/Solutions/MScAC Solutions/CSC2504 - Computer Graphics Solutions/computer-graphics-raster-images-master/build-debug/CMakeFiles/ALL_BUILD.dir
+D:/Solutions/MScAC Solutions/CSC2504 - Computer Graphics Solutions/computer-graphics-raster-images-master/build-debug/CMakeFiles/ZERO_CHECK.dir

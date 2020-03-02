@@ -1,0 +1,10 @@
+^D:\SOLUTIONS\MSCAC SOLUTIONS\CSC2504 - COMPUTER GRAPHICS SOLUTIONS\COMPUTER-GRAPHICS-RASTER-IMAGES-MASTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/Solutions/MScAC Solutions/CSC2504 - Computer Graphics Solutions/computer-graphics-raster-images-master" "-BD:/Solutions/MScAC Solutions/CSC2504 - Computer Graphics Solutions/computer-graphics-raster-images-master/build-debug" --check-stamp-file "D:/Solutions/MScAC Solutions/CSC2504 - Computer Graphics Solutions/computer-graphics-raster-images-master/build-debug/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

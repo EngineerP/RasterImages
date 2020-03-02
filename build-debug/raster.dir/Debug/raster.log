@@ -1,0 +1,24 @@
+﻿  Building Custom Rule D:/Solutions/MScAC Solutions/CSC2504 - Computer Graphics Solutions/computer-graphics-raster-images-master/CMakeLists.txt
+  main.cpp
+  demosaic.cpp
+  desaturate.cpp
+  hsv_to_rgb.cpp
+  hue_shift.cpp
+  over.cpp
+D:\Solutions\MScAC Solutions\CSC2504 - Computer Graphics Solutions\computer-graphics-raster-images-master\src\over.cpp(30,55): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+D:\Solutions\MScAC Solutions\CSC2504 - Computer Graphics Solutions\computer-graphics-raster-images-master\src\over.cpp(31,61): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+  reflect.cpp
+  rgb_to_gray.cpp
+D:\Solutions\MScAC Solutions\CSC2504 - Computer Graphics Solutions\computer-graphics-raster-images-master\src\over.cpp(32,58): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+  rgb_to_hsv.cpp
+  rgba_to_rgb.cpp
+  rotate.cpp
+  simulate_bayer_mosaic.cpp
+  write_ppm.cpp
+  Generating Code...
+D:\Solutions\MScAC Solutions\CSC2504 - Computer Graphics Solutions\computer-graphics-raster-images-master\src\rgb_to_gray.cpp(13,52): warning C4244:  '=': conversion from 'double' to '_Ty', possible loss of data
+D:\Solutions\MScAC Solutions\CSC2504 - Computer Graphics Solutions\computer-graphics-raster-images-master\src\rgb_to_gray.cpp(13,52): warning C4244:         with
+D:\Solutions\MScAC Solutions\CSC2504 - Computer Graphics Solutions\computer-graphics-raster-images-master\src\rgb_to_gray.cpp(13,52): warning C4244:         [
+D:\Solutions\MScAC Solutions\CSC2504 - Computer Graphics Solutions\computer-graphics-raster-images-master\src\rgb_to_gray.cpp(13,52): warning C4244:             _Ty=unsigned char
+D:\Solutions\MScAC Solutions\CSC2504 - Computer Graphics Solutions\computer-graphics-raster-images-master\src\rgb_to_gray.cpp(13,52): warning C4244:         ]
+  raster.vcxproj -> D:\Solutions\MScAC Solutions\CSC2504 - Computer Graphics Solutions\computer-graphics-raster-images-master\build-debug\Debug\raster.exe
